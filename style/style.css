@@ -1,0 +1,49 @@
+/*Container*/
+
+.container-header{
+
+    background-color: cadetblue;
+    text-shadow: 1px 1px whitesmoke;
+   
+}
+
+.container{     
+    text-align: left;
+    color: cadetblue;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+}
+
+.container img{
+
+    width: 400px;
+}
+
+/*footer*/
+
+footer
+{
+    color: plum;
+    font-size: 10px;
+
+}
+
+/*About Part*/
+
+.about-class{
+
+    text-align: center;
+    color: cadetblue;
+    font-size: 10px;
+    
+}
+
+
+.about-class h3{
+
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+}
+
+
+
